@@ -1,2 +1,3 @@
-# pantheon-empty-upstream
-Silence is golden.
+# Pantheon Empty Upstream
+
+A blank slate.
